@@ -84,4 +84,4 @@ productos.updateProducts({
   code: "abc125",
   stock: 15,
   id: 3,
-});
+})
